@@ -3,7 +3,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
 </div>
-
+Kate
 # hakai-dataset-repository-template
 
 Summary here
